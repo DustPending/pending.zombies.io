@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Development](#development)
+- [Dev Diary](#dev-diary)
 - [Meet the Developers](#meet-the-developers)
 
 
