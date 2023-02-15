@@ -55,6 +55,6 @@ It's been a challenging experience working on An Answer to the Dust, but also an
 ## Meet the Developers
 
 - [Cris Javier](https://crisjavier.github.io/)
-- [Justin Yip]([github-link](https://github.com/jyip808))
+- [Justin Yip](https://jyip808.github.io/)
 - [Billy Kane](link-to-somewhere)
-- [Kaiwi Akioka]([github-link](https://github.com/Kakioka))
+- [Kaiwi Akioka](https://kakioka.github.io/)
