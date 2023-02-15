@@ -62,6 +62,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Meet the Developers
 
 - [Cris Javier](https://crisjavier.github.io/)
-- [Justin Yip]((https://github.com/jyip808))
+- [Justin Yip]([github-link](https://github.com/jyip808))
 - [Billy Kane](link-to-somewhere)
 - [Kaiwi Akioka]([github-link](https://github.com/Kakioka))
