@@ -1,26 +1,20 @@
-# Zomboi
+# An Answer for the Dust
 
 ## Table of Contents
 - [Overview](#overview)
-- [Developer Guide](#developer-guide)
+- [Development](#development)
 - [Meet the Developers](#meet-the-developers)
 
 
 ## Overview
 
-### The Problem
-The Hawaii Department of Education has an outdated legislative tracking system (LTS) that has slow and inconvenient workflows, as well as a deprecated server. Their current system manager retires within the next five years and there would be no other member to provide support for the LTS.  They want to upgrade, modernize, and replace their current LTS before their current system manager retires.
+### Synopsis
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### The Solution
-Our solution is to make a tracker that encompasses the required “Key Components” outlined in the sections of the home page. For example, we will add these features to: Add, Remove, and Store bills, the ability to sort the viewed bills by preference of user, and have notifications sent out via email that the user has signed up with. A potential feature to be suggested is a new in-client mailbox/notification system. The New LTS will increase the clarity and legibility of the previous system by eliminating unnecessary clutter and allow for easier navigation of the web page to the user. Overall our solution and or goal is to **enable HIDOE to track legislation and set up workflow processes more efficiently and accurately than before.** 
+### Our Vision
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Deployment
-
-The Hawaii DOE Legislative Bill Tracker is currently under development.
-
-[![ci-hidoe-legistracker](https://github.com/hidoe-legistracker/hidoe-legistracker/actions/workflows/ci.yml/badge.svg)](https://github.com/hidoe-legistracker/hidoe-legistracker/actions/workflows/ci.yml)
-
-## Mockup Pages 
+## Development
 
 ### Login Page 
 
@@ -74,9 +68,6 @@ The Hawaii DOE Legislative Bill Tracker is currently under development.
 ### Register New User Page
 
 ![](images/register-new-user.png)
-
-## Developer Guide
-
 
 
 ## Meet the Developers
