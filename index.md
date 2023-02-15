@@ -42,15 +42,15 @@ This project has really opened my eyes to how a video game production group can 
 
 ### Justin Yip
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As a developer on An Answer to the Dust, I'm excited to be part of a team that's creating an immersive gaming experience that pushes the boundaries of what's possible in the genre. It's challenging, but also incredibly rewarding to see our vision for the game come to life as we build and refine it. The attention to detail and passion for the project that everyone on the team brings to the table is truly inspiring, and I can't wait to see how players react to the game when it's released.
 
 ### Billy Kane
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Working on An Answer to the Dust has been a dream come true for me. As a lifelong fan of horror and survival games, I'm thrilled to be working on a project that combines those two elements in such a unique and exciting way. The team has been amazing to work with, and the collaborative nature of our development process has allowed us to bring a variety of different perspectives and skills to the table. I'm incredibly proud of what we've accomplished so far, and I can't wait to see what we'll achieve in the future.
 
 ### Kaiwi Akioka
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+It's been a challenging experience working on An Answer to the Dust, but also an incredibly rewarding one. From the early stages of development to the final push towards release, it's been inspiring to see the game take shape and become something truly special. The attention to detail and dedication of the team is truly impressive, and I feel fortunate to be working alongside such talented individuals. The long hours and hard work have been worth it, and I'm excited to see how the game is received by players when it finally hits the market.
 
 ## Meet the Developers
 
