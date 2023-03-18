@@ -4,6 +4,7 @@
 - [Overview](#overview)
 - [Development](#development)
 - [Dev Diary](#dev-diary)
+- [The Game](#the-game)
 - [Meet the Developers](#meet-the-developers)
 
 
@@ -33,6 +34,10 @@ Shooting in games is done in one of two ways. They either use raycasts or spawn 
 ![](images/canvas-zombie.png)
 
 Please zoom in to get a clearer view of our taskboard!
+
+## The Game
+
+![](https://dustpending.github.io/pending.zombies.io/)
 
 ## Dev Diary
 
