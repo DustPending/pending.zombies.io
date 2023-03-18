@@ -37,7 +37,7 @@ Please zoom in to get a clearer view of our taskboard!
 
 ## The Game
 
-![](https://dustpending.github.io/pending.zombies.io/)
+https://dustpending.github.io/pending.zombies.io/
 
 ## Dev Diary
 
